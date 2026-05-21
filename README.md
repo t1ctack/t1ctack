@@ -9,25 +9,6 @@ Estou cursando Análise e Desenvolvimento de Sistemas na UniFECAF e, desde peque
 Atualmente, estou me aprofundando no universo de Inteligência Artificial e Agentes Autônomos, áreas que considero essenciais para o futuro da tecnologia e da inovação.
 
 ---
-
-## 🌎 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/luisfelipe2007/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-
-  <a href="mailto:luisfelipetrabalho8@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
-</p>
-
----
-
 ## 🤖 Linguagens e Tecnologias
 
 <p align="left">
@@ -43,6 +24,20 @@ Atualmente, estou me aprofundando no universo de Inteligência Artificial e Agen
   <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="Swagger" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
 </p>
+---
+## 🌎 Contato
 
-<br/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/luisfelipe2007/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+
+  <a href="mailto:luisfelipetrabalho8@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+</p>
 
