@@ -24,7 +24,9 @@ Atualmente, estou me aprofundando no universo de Inteligência Artificial e Agen
   <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="Swagger" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
 </p>
+
 ---
+
 ## 🌎 Contato
 
 <p align="left">
