@@ -49,13 +49,13 @@ Atualmente, estou me aprofundando no universo de Inteligência Artificial e Agen
 </p>
 
 <p>
-<img
-    aling="left"
+  <img
+    align="left"
     alt="Github Stats"
-    heigth="200"
-    style="padding-rigth: 10px;"
+    height="200"
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=t1ctack&theme=tokyonight&layout=compact"
-    >
+  />
 </p>
 
 
