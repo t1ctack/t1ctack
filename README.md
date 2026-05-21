@@ -30,101 +30,34 @@ Atualmente, estou me aprofundando no universo de Inteligência Artificial e Agen
 ## 🤖 Linguagens e Tecnologias
 
 <p align="left">
-
-<img 
-    alt="C#" 
-    title="C#" 
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-/>
-
-<img 
-    alt="Java" 
-    title="Java" 
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-/>
-
-<img 
-    alt="Python" 
-    title="Python" 
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
-
-<img 
-    alt="MySQL" 
-    title="MySQL" 
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
-
-<img 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    alt="HTML5" 
-    title="HTML5" 
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    alt="CSS3" 
-    title="CSS3" 
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    alt="Node.js" 
-    title="Node.js" 
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-/>
-
-<img 
-    alt="Git" 
-    title="Git" 
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-
-<img 
-    alt="Linux" 
-    title="Linux" 
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-/>
-
-<img 
-    alt="Swagger" 
-    title="Swagger" 
-    width="40px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" 
-/>
-
+  <img alt="C#" title="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="NodeJS" title="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Linux" title="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="Swagger" title="Swagger" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
 </p>
 
 ---
 
 ## 📊 Estatísticas
 
-<p align="left">
-    <img 
-        height="180em" 
-        src="https://github-readme-stats.vercel.app/api?username=t1ctack&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    />
+<div align="left">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=t1ctack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
+  />
 
-<img 
-        height="180em" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=t1ctack&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-</p>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=t1ctack&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"
+  />
+</div>
 
 ---
 
