@@ -8,19 +8,24 @@ Estou cursando Análise e Desenvolvimento de Sistemas na UniFECAF e, desde peque
 
 Atualmente, estou me aprofundando no universo de Inteligência Artificial e Agentes Autônomos, áreas que considero essenciais para o futuro da tecnologia e da inovação.
 
+---
+
+## 🌎 Contato
+
 <p align="left">
-    <a href="https://github.com/t1ctack?tab=followers">
+    <a href="https://www.linkedin.com/in/luisfelipe2007/">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/t1ctack?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="LinkedIn" 
+            title="LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/t1ctack?tab=repositories&sort=stargazers">
+
+<a href="mailto:luisfelipetrabalho8@gmail.com">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/t1ctack?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+            alt="Email" 
+            title="Email" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
 </p>
@@ -43,40 +48,13 @@ Atualmente, estou me aprofundando no universo de Inteligência Artificial e Agen
   <img alt="Swagger" title="Swagger" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
 </p>
 
----
+<img
+    aling="left"
+    alt="Github Stats"
+    heigth="200"
+    style="padding-rigth: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=t1ctack&theme=tokyonight&layout=compact"
+    >
 
-## 📊 Estatísticas
 
-<div align="left">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=t1ctack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
-  />
 
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=t1ctack&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"
-  />
-</div>
-
----
-
-## 🌎 Contato
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/luisfelipe2007/">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-
-<a href="mailto:luisfelipetrabalho8@gmail.com">
-        <img 
-            alt="Email" 
-            title="Email" 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-</p>
