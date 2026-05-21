@@ -48,6 +48,7 @@ Atualmente, estou me aprofundando no universo de Inteligência Artificial e Agen
   <img alt="Swagger" title="Swagger" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
 </p>
 
+<p>
 <img
     aling="left"
     alt="Github Stats"
@@ -55,6 +56,6 @@ Atualmente, estou me aprofundando no universo de Inteligência Artificial e Agen
     style="padding-rigth: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=t1ctack&theme=tokyonight&layout=compact"
     >
-
+</p>
 
 
